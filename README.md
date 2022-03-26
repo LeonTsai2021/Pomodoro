@@ -27,17 +27,18 @@ You can click "start" to trigger the clock. However, you also can click "reset" 
 <img src = "./screenshot/Home.png">
 
 ## <Strong>_Work time_</Strong>
-It would show "work" to remind you.
-<img src = "./screenshot/Search_success.png">
+It would show "work" to remind you. When you finish it, it would add a mark at the bottom.
 
-## <Strong>_Search fail_</Strong>
-If you've not add data before, it would show you.
+<img src = "./screenshot/work.png">
 
-<img src = "./screenshot/Search_fail.png">
+## <Strong>_Short break_</Strong>
+It would show "break" to remind you.
 
-## <Strong>_Generate password_</Strong>
-You can just click "Generate Password" button, it would create a password for you.
+<img src = "./screenshot/Five_minutes.png">
 
-<img src = "./screenshot/Generate_password.png">
+## <Strong>_Long break_</Strong>
+You've done four times of these Pomodoros. It would show "Long break" to remind you.
+
+<img src = "./screenshot/Long_break.png">
 
 <br  />
