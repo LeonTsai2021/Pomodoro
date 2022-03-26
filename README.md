@@ -9,6 +9,7 @@ You have work on the task for 25 minutes. And then after that, you take a short 
 
 <img align = "left" width = "30px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align = "left" width = "35px" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmGZh-nLwf0EhKWSEHxrZ3VE50o0zvol2ZHXPCdu2oFd6220h3&s">
+<img align = "left" width = "35px" src = "https://cdn-icons-png.flaticon.com/512/4911/4911248.png">
 <img align = "left" width = "30px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
 <br />
 <br />
@@ -22,23 +23,14 @@ You have work on the task for 25 minutes. And then after that, you take a short 
 # <Strong>_Features_</Strong>
 
 ## <Strong>_Home_</Strong>
-You can click "start" to trigger the clock. However, you also can click "reset" to reset and stop it.
+When your answer is correct, the State would show on the picture. The top of input screen shows the number of the States you have figured out. 
 
 <img src = "./screenshot/Home.png">
 
-## <Strong>_Work time_</Strong>
-It would show "work" to remind you. When you finish it, it would add a mark at the bottom.
+## <Strong>_Guess_</Strong>
+There is'nt necessary for you to write uppercase letter beginning. The program would automatically transform it.
 
-<img src = "./screenshot/work.png">
+<img src = "./screenshot/Answer.png">
 
-## <Strong>_Short break_</Strong>
-It would show "break" to remind you.
-
-<img src = "./screenshot/Five_minutes.png">
-
-## <Strong>_Long break_</Strong>
-You've done four times of these Pomodoros. It would show "Long break" to remind you.
-
-<img src = "./screenshot/Long_break.png">
 
 <br  />
